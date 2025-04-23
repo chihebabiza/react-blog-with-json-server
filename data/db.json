@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "Why React is Awesome",
+      "body": "React makes it painless to create interactive UIs. Design simple views for each state in your application.",
+      "author": "Chiheb",
+      "id": 1
+    },
+    {
+      "title": "Learning JavaScript in 2025",
+      "body": "JavaScript continues to evolve with new features like optional chaining, top-level await, and more.",
+      "author": "Chiheb",
+      "id": 2
+    },
+    {
+      "title": "CSS Tips for Clean Design",
+      "body": "Use Flexbox for layout, keep your color palette consistent, and organize your styles by components.",
+      "author": "Ali",
+      "id": 3
+    },
+    {
+      "title": "Mastering Node.js",
+      "body": "Understand event-driven architecture and work with async I/O for scalable backend development.",
+      "author": "Zainab",
+      "id": 4
+    },
+    {
+      "title": "Understanding Git Internals",
+      "body": "Learn about Git objects, the staging area, and how Git stores your data under the hood.",
+      "author": "Hamza",
+      "id": 5
+    },
+    {
+      "title": "The Future of Frontend Development",
+      "body": "Explore frameworks like SolidJS and Qwik, and how edge computing is shaping frontend architecture.",
+      "author": "Meryem",
+      "id": 6
+    }
+  ]
+}
