@@ -12,3 +12,7 @@
   margin: 40px auto;
   padding: 20px;
 }
+
+.blog-preview a{
+  text-decoration: none;
+}
