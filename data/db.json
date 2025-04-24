@@ -4,37 +4,49 @@
       "title": "Why React is Awesome",
       "body": "React is a powerful JavaScript library for building user interfaces. Its component-based architecture allows developers to break complex UIs into smaller, manageable parts that can be reused across the application. React uses a virtual DOM, which boosts performance by only updating elements that have changed. With features like hooks (useState, useEffect), state management becomes easier and more predictable. React's ecosystem is also vast, including libraries like Redux, React Router, and Next.js. Whether you're building a single-page application or a large-scale enterprise system, React offers flexibility, scalability, and an amazing developer experience with strong community support.",
       "author": "Chiheb",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Learning JavaScript in 2025",
       "body": "JavaScript remains one of the most relevant and widely used programming languages in 2025, thanks to its versatility and continuous evolution. Modern JavaScript includes features like optional chaining (?.), nullish coalescing (??), top-level await, private class fields, and more, making the language cleaner and safer to write. JavaScript runs everywhere: in browsers, on servers with Node.js, and even in IoT devices. Learning JavaScript opens doors to frontend (React, Vue), backend (Express, Fastify), and even full-stack development. Understanding ES6+ syntax, asynchronous programming, closures, modules, and event-driven paradigms is crucial to becoming proficient in this ever-evolving language.",
       "author": "Chiheb",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "CSS Tips for Clean Design",
       "body": "CSS is the key to visually appealing and user-friendly web interfaces. To keep your design clean, always use a consistent and limited color palette, define clear typography rules (fonts, sizes, spacing), and structure your CSS logically using components or utility-first approaches. Layouts can be efficiently managed with Flexbox and Grid. Flexbox is perfect for aligning items in one direction, while Grid is better for two-dimensional layouts. Make use of CSS variables to keep your theme flexible, and always write responsive code using media queries. Organize styles with naming conventions like BEM or methodologies like Atomic CSS for better maintainability.",
       "author": "Ali",
-      "id": 3
+      "id": "3"
     },
     {
       "title": "Mastering Node.js",
       "body": "Node.js is built on Chrome’s V8 JavaScript engine and is designed for building scalable network applications. Its non-blocking, event-driven architecture allows it to handle concurrent connections with high efficiency. To master Node.js, you need to understand the event loop, asynchronous programming with callbacks, promises, and async/await. Learn to build RESTful APIs using Express.js, connect to databases like MongoDB or PostgreSQL, and use middleware for request processing. Handling errors gracefully, managing environment variables, and understanding the module system are also crucial. Advanced topics include working with streams, building CLI tools, or implementing WebSocket servers for real-time communication.",
       "author": "Zainab",
-      "id": 4
+      "id": "4"
     },
     {
       "title": "Understanding Git Internals",
       "body": "Git is a distributed version control system that tracks changes in source code. At its core, Git stores everything in objects: blobs (file data), trees (directory structures), commits (snapshots), and tags (references). When you add files, Git stores them as blobs, and when you commit, it creates a tree structure and links it to a commit object. The staging area (index) acts as a preparation zone before a commit. Understanding these internals helps explain why Git behaves the way it does during operations like rebasing, merging, or cherry-picking. You also gain the ability to recover lost commits using the reflog and understand the difference between a soft, mixed, and hard reset.",
       "author": "Hamza",
-      "id": 5
+      "id": "5"
     },
     {
       "title": "The Future of Frontend Development",
       "body": "Frontend development is undergoing rapid innovation. While frameworks like React and Vue are still popular, new contenders like SolidJS, Qwik, and Svelte are pushing the boundaries of performance and developer experience. These frameworks offer faster rendering, smaller bundles, and fine-grained reactivity. Edge computing and serverless architectures are changing the way frontend and backend interact, pushing logic closer to the user for faster performance. Meanwhile, tools like Vite and ESBuild have drastically improved development speed. The shift toward component-driven development, static site generation, and micro-frontends is reshaping how we build scalable and performant web applications in the modern era.",
       "author": "Meryem",
-      "id": 6
+      "id": "6"
+    },
+    {
+      "id": "e132",
+      "title": "chiheb test",
+      "body": "asfasfafsfas",
+      "author": "chiheb"
+    },
+    {
+      "id": "4f84",
+      "title": "afafas",
+      "body": "afasfsad",
+      "author": "aissa"
     }
   ]
 }
