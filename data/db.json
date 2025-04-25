@@ -35,18 +35,6 @@
       "body": "Frontend development is undergoing rapid innovation. While frameworks like React and Vue are still popular, new contenders like SolidJS, Qwik, and Svelte are pushing the boundaries of performance and developer experience. These frameworks offer faster rendering, smaller bundles, and fine-grained reactivity. Edge computing and serverless architectures are changing the way frontend and backend interact, pushing logic closer to the user for faster performance. Meanwhile, tools like Vite and ESBuild have drastically improved development speed. The shift toward component-driven development, static site generation, and micro-frontends is reshaping how we build scalable and performant web applications in the modern era.",
       "author": "Meryem",
       "id": "6"
-    },
-    {
-      "id": "e132",
-      "title": "chiheb test",
-      "body": "asfasfafsfas",
-      "author": "chiheb"
-    },
-    {
-      "id": "4f84",
-      "title": "afafas",
-      "body": "afasfsad",
-      "author": "aissa"
     }
   ]
 }
